@@ -71,7 +71,7 @@ class TableViewControllerShow: UITableViewController {
     }
 }
 
-// MARK: - JSON Deleate
+// MARK: - JSON Delegate
 extension TableViewControllerShow: AlertJSONDelegate {
     func AlertJSON(_ alertJSON: AlertJson?, didLoad feeds: AlertFeeds?, and entry: [Entry]?) {
         self.entry = []
