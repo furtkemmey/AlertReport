@@ -30,3 +30,6 @@
 -  ARC,memery,strong,weak
 -  AVSpeech
 -  segue, prepareforsegue
+-  optional, ! ?
+
+
